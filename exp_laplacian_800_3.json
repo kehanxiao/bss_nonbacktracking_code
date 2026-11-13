@@ -1,0 +1,13 @@
+[
+ {
+  "n": 800,
+  "d": 3,
+  "avg_deg": 5.9925,
+  "kappa_bss_actual": 5.317784358568385,
+  "kappa_bss_theorem": 13.928203230275503,
+  "kappa_random_regular": 6.678019383797457,
+  "kappa_random_regular_best": 6.558378262474903,
+  "kappa_ramanujan_asymptotic": 6.854101966249686,
+  "secs": 470.3405635356903
+ }
+]

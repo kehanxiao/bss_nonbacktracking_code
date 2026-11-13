@@ -1,0 +1,68 @@
+[
+ {
+  "n": 100,
+  "d": 3,
+  "avg_deg": 5.94,
+  "kappa_bss_actual": 4.060063087100974,
+  "kappa_bss_theorem": 13.928203230275503,
+  "kappa_random_regular": 5.991949472275833,
+  "kappa_random_regular_best": 5.6453694293471814,
+  "kappa_ramanujan_asymptotic": 6.854101966249686,
+  "secs": 0.6330227851867676
+ },
+ {
+  "n": 200,
+  "d": 3,
+  "avg_deg": 5.97,
+  "kappa_bss_actual": 4.587321141701448,
+  "kappa_bss_theorem": 13.928203230275503,
+  "kappa_random_regular": 6.235199439249614,
+  "kappa_random_regular_best": 5.959977101986947,
+  "kappa_ramanujan_asymptotic": 6.854101966249686,
+  "secs": 3.446655511856079
+ },
+ {
+  "n": 400,
+  "d": 3,
+  "avg_deg": 5.985,
+  "kappa_bss_actual": 5.018731523011681,
+  "kappa_bss_theorem": 13.928203230275503,
+  "kappa_random_regular": 6.467486943835698,
+  "kappa_random_regular_best": 6.247540165030717,
+  "kappa_ramanujan_asymptotic": 6.854101966249686,
+  "secs": 38.44702076911926
+ },
+ {
+  "n": 100,
+  "d": 5,
+  "avg_deg": 9.9,
+  "kappa_bss_actual": 2.6245162101984083,
+  "kappa_bss_theorem": 6.854101966249686,
+  "kappa_random_regular": 3.4963353307846363,
+  "kappa_random_regular_best": 3.3799752249257797,
+  "kappa_ramanujan_asymptotic": 4.0,
+  "secs": 0.7180988788604736
+ },
+ {
+  "n": 200,
+  "d": 5,
+  "avg_deg": 9.95,
+  "kappa_bss_actual": 2.84908558964961,
+  "kappa_bss_theorem": 6.854101966249686,
+  "kappa_random_regular": 3.7098530704190105,
+  "kappa_random_regular_best": 3.647065278364153,
+  "kappa_ramanujan_asymptotic": 4.0,
+  "secs": 5.743832111358643
+ },
+ {
+  "n": 400,
+  "d": 5,
+  "avg_deg": 9.975,
+  "kappa_bss_actual": 3.071067071543066,
+  "kappa_bss_theorem": 6.854101966249686,
+  "kappa_random_regular": 3.8054300301338744,
+  "kappa_random_regular_best": 3.750862415310649,
+  "kappa_ramanujan_asymptotic": 4.0,
+  "secs": 64.64512825012207
+ }
+]
